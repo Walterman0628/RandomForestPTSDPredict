@@ -1,0 +1,2 @@
+# RandomForestPTSDPredict
+基于随机森林模型的多模态PTSD风险预测模型（第七届MAS案例分析大赛参赛作品）
