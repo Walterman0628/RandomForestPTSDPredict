@@ -4,6 +4,7 @@
 在程序开始执行后，需要选择是否可以提供脑电波数据，如果能够提供脑电波数据将自动进入多模态数据PTSD风险预测模型，否则将使用问卷数据PTSD风险预测模型  
 在两个预测模型中，都需要用户通过回答问题的方式来完成问卷数据的填写  
 脑电波数据（eeg.csv）需将列名按原意更改为Focus Relaxion Alpha1 Alpha2 Beta1 Beta2 Gamma1 Gamma2  
-  
+
+本地问卷系统可以通过下载Local.zip解压部署，在安装Flask和Numpy的Python环境中运行app.py,然后打开index.html即可使用问卷系统进行预测
 问卷系统预览如下图所示  
 ![问卷系统预览](https://github.com/Walterman0628/RandomForestPTSDPredict/blob/main/images/Questionnaire.png)
